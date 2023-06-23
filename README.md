@@ -11,3 +11,5 @@
 - 元データ
   - [統計地理情報システムの４次メッシュ人口データ（2020年）](https://www.e-stat.go.jp/gis/statmap-search?page=1&type=1&toukeiCode=00200521&toukeiYear=2020&aggregateUnit=H&serveyId=H002005112020&statsId=T001101)
   - [統計地理情報システムの境界データ](https://www.e-stat.go.jp/gis/statmap-search?page=1&type=2&aggregateUnitForBoundary=H&coordsys=1&format=shape)
+
+![画像の説明](./メッシュごとの人口分布.png "mwsh_population")
